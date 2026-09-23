@@ -1,44 +1,90 @@
 # Hey, I'm Arjun 👋
 
-First-year **Computer Science & Engineering** student passionate about building tools that solve real problems. I work on mobile apps, backend systems, and data-driven solutions.
+**Computer Science & Engineering (Data Science)** student at **NMIMS University**, passionate about building tools that solve real problems. I enjoy software development, data science, problem solving, and learning how things work under the hood.
 
 ## 🚀 What I'm Working On
 
-### **CropXChange** | SIH 2026
-A farmer marketplace platform for price discovery and buyer linkages. Helping farmers get fair prices through direct market access.
-- **Tech:** Mobile app + backend integration
-- **Focus:** Market transparency, buyer-farmer connections
+### **SIH 2026 — CropXChange**
+
+A farmer marketplace platform focused on price discovery and connecting farmers with buyers.
+
+* **Focus:** Market transparency, price comparison, buyer-farmer connections
+* **Tech:** React, TypeScript, Tailwind CSS, PostgreSQL/Supabase, Deno, Python
+
+### **SIH 2025 — Krishi AI**
+
+An AI-focused agriculture project aimed at using technology and data to address real-world farming challenges.
+
+* **Focus:** AI, agriculture, data-driven solutions
+* **Theme:** Smart farming and technology-driven agricultural support
+
+### **DSA Problem Solving**
+
+Regularly practicing Data Structures & Algorithms to strengthen problem-solving and prepare for technical and placement interviews.
+
+
+
+Topics: Arrays, strings, linked lists, stacks, queues, sorting, searching, recursion, trees, and more
+
+Focus: Efficient solutions, algorithmic thinking, and understanding the logic behind each problem
+
+Language: C, python
 
 ### **Gamepad Controller App**
-Cross-platform mobile controller for Windows/Android gaming.
-- **Features:** Real-time input mapping, multi-device support
-- **Tech:** Mobile development, cross-platform architecture
+
+A cross-platform mobile controller that lets an Android device work as a controller for Windows gaming.
+
+* **Features:** Real-time input mapping, WebSocket communication, multi-device support
+* **Tech:** Python, Android, WebSockets, vgamepad
 
 ## 🎯 Interests & Skills
 
-- **Mobile Development:** Android, cross-platform frameworks
-- **Backend & Data:** Building systems that handle real-world complexity
-- **Problem Solving:** Especially in healthcare, agriculture, and gaming
-- **Open Source:** Learning and contributing
+* **Programming:** C, Python, R, JavaScript
+* **Web Development:** HTML, CSS, JavaScript
+* **Data Science:** Data analysis, statistics, machine learning fundamentals
+* **Core CS:** Data Structures & Algorithms, problem solving
+* **Tools:** RStudio, StarUML, Git, GitHub
+* **Backend:** APIs, WebSockets, system fundamentals
+* **Interests:** Software development, Data Science, Machine Learning
 
 ## 💼 Experience
 
 **Hospital Operations Volunteer** @ Oncology Hospital
-- Work with HISTree (Hospital Information System)
-- Understanding healthcare workflows and system design
+
+* Worked with **HISTree (Hospital Information System)**
+* Observed patient registration, billing, token and queue management
+* Learned how technology supports real-world healthcare workflows
 
 ## 📚 Currently Learning
 
-- Advanced algorithms and system design
-- Full-stack development practices
-- Data structures and optimization
+* Advanced Data Structures & Algorithms
+* Full-stack development
+* Data Science & Machine Learning
+* Backend development
+* System design fundamentals
+* Preparing for **technical and placement interviews**
+
+## 💻 Placement Interview Focus
+
+Currently strengthening my fundamentals in:
+
+* C & Python
+* Data Structures & Algorithms
+* OOP
+* DBMS & SQL
+* Operating Systems
+* Computer Networks
+* Data Science & Machine Learning
+* Problem solving & logical reasoning
 
 ## 🎮 Beyond Code
 
-Enjoy puzzle games, board games, and exploring game mechanics.
+Enjoy **puzzle games, board games, gaming, and exploring game mechanics**.
+
+I like problems that require logical thinking, experimentation, and finding efficient solutions.
 
 ---
 
 **Let's connect!** Open to collaborations, interesting problems, and learning opportunities.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)](https://github.com/YOUR_USERNAME)
