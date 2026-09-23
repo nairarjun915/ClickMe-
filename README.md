@@ -87,4 +87,4 @@ I like problems that require logical thinking, experimentation, and finding effi
 
 **Let's connect!** Open to collaborations, interesting problems, and learning opportunities.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nairarjun915\&show_icons=true\&theme=default)](https://github.com/nairarjun915)
